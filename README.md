@@ -389,7 +389,6 @@ reto-festivos-espana-2023/
 │
 ├── README.md
 ├── reto_festivos_espana_2023.pbix
-└── .gitignore
 ```
 
 ---
